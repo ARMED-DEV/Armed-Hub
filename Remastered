@@ -1,0 +1,11 @@
+if game.PlaceId == 155615604 then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/ARMED-DEV/Prison-Life-Update/main/Armed%20is%20back%20baby'),true))()
+end
+
+if game.PlaceId == 2377868063 then
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/ARMED-DEV/Armeds-Strucid-Script/main/Beta")()
+end
+
+if game.PlaceId == 3297964905 then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/ARMED-DEV/Weponary/main/v0'),true))()
+end
